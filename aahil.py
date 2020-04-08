@@ -77,14 +77,19 @@ vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
 
 os.system("clear")
-print "\033[1;96m ============================================================="
-print  """\033[1;96m [¤] \x1b[0;36mASSALAMUALAIKUM\x1b[1;96m  \033[1;96m   [¤] \x1b[0;36mWHATSAPP : 085691015635\x1b[1;96m  
-\033[1;96m [¤] \x1b[0;36mSELAMAT DATAMG\x1b[1;96m      [¤] \x1b[0;36mFACEBOOK : tools termux\x1b[1;96m  
-\033[1;96m [¤] \x1b[0;36mTOOLS BY AFZAL\x1b[1;96m  [¤] \x1b[0;36mYOUTUBE  : A Smart Tips\x1b[1;96m"""
-print " \x1b[1;93m============================================================="
+print "
+\033[1;94m            ▒▒▒▒▒▒▒▒▒▒▒▒  ╱▔▔▔▔╲ ▒▒▒▒▒▒▒▒▒▒▒▒ 
+  \033[1;94m         ▒▒▒▒▒▒▒▒▒▒▒▒ ▕▕╲┊┊╱▏▏▒▒▒▒▒▒▒▒▒▒▒▒ 
+  \033[1;94m         ▒▒▒▒▒▒▒▒▒▒▒▒ ▕▕▂╱╲▂▏▏▒▒▒▒▒▒▒▒▒▒▒▒ 
+ \033[1;94m          ▒▒▒▒▒▒▒▒▒▒▒▒  ╲┊┊┊┊╱ ▒▒▒▒▒▒▒▒▒▒▒▒ 
+ \033[1;94m          ▒▒▒▒▒▒▒▒▒▒▒▒  ▕╲▂▂╱▏ ▒▒▒▒▒▒▒▒▒▒▒▒
+ \033[1;94m             ▒▒▒▒▒▒▒▒▒ ╱▔▔▔▔┊┊┊┊▔▔▔▔╲▒▒▒▒▒▒▒▒▒
+  \033[1;94m          ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 
+       \033[1;93m  ██████▒▒Welcome to A Blacktigers▒▒██████
+jalan('\033[1;92m   ............Aahil-Creations...My...Youtube...Chneel...........:')
 
-CorrectUsername = "A"
-CorrectPassword = "A"
+CorrectUsername = "rana"
+CorrectPassword = "rana"
 
 loop = 'true'
 while (loop == 'true'):
@@ -188,8 +193,8 @@ def menu():
 	print "\033[1;96m[\033[1;97m✓\033[1;96m]\033[1;93m Nama \033[1;91m: \033[1;92m"+nama+"\033[1;97m               "
 	print "\033[1;96m[\033[1;97m✓\033[1;96m]\033[1;93m ID   \033[1;91m: \033[1;92m"+id+"\x1b[1;97m              "
 	print 42*"\033[1;96m="
-	print "\x1b[1;96m[\x1b[1;92m1\x1b[1;96m]\x1b[1;36m Hack Fb MBF"
-	print "\x1b[1;96m[\x1b[1;92m2\x1b[1;96m]\x1b[1;36m Group ki list dekho               "
+	print "\x1b[1;96m[\x1b[1;92m1\x1b[1;96m]\x1b[1;36m Hack USA"
+	print "\x1b[1;96m[\x1b[1;92m2\x1b[1;96m]\x1b[1;36m Group ki list dekho        "
 	print "\x1b[1;96m[\x1b[1;92m4\x1b[1;96m]\x1b[1;36m Yahoo clone               "
 	print "\x1b[1;96m[\x1b[1;91m0\x1b[1;96m]\x1b[1;91m Logout            "
 	pilih()
@@ -228,10 +233,10 @@ def super():
 	os.system('clear')
 	print logo
 	print 42*"\033[1;96m="
-	print "\x1b[1;96m[\x1b[1;92m1\x1b[1;96m]\x1b[1;36m Apni id ki friend list hack"
-	print "\x1b[1;96m[\x1b[1;92m2\x1b[1;96m]\x1b[1;36m Apny dost ki friend list hack"
-	print "\x1b[1;96m[\x1b[1;92m3\x1b[1;96m]\x1b[1;36m Apny facebook group ko hack kro"
-	print "\x1b[1;96m[\x1b[1;92m4\x1b[1;96m]\x1b[1;36m list bana k hack kro"
+	print "\x1b[1;96m[\x1b[1;92m1\x1b[1;96m]\x1b[1;37m Apni id ki friend list hack"
+	print "\x1b[1;96m[\x1b[1;92m2\x1b[1;96m]\x1b[1;39m USA Account hack"
+	print "\x1b[1;96m[\x1b[1;92m3\x1b[1;96m]\x1b[1;32m Apny facebook group ko hack kro"
+	print "\x1b[1;96m[\x1b[1;92m4\x1b[1;96m]\x1b[1;31m list bana k hack kro"
 	print "\x1b[1;96m[\x1b[1;91m0\x1b[1;96m]\x1b[1;91m Back"
 	pilih_super()
 
